@@ -1,0 +1,15 @@
+F:\source\lab1_var20\bin\Debug\netcoreapp3.1\lab1_var20.exe
+F:\source\lab1_var20\bin\Debug\netcoreapp3.1\lab1_var20.deps.json
+F:\source\lab1_var20\bin\Debug\netcoreapp3.1\lab1_var20.runtimeconfig.json
+F:\source\lab1_var20\bin\Debug\netcoreapp3.1\lab1_var20.runtimeconfig.dev.json
+F:\source\lab1_var20\bin\Debug\netcoreapp3.1\lab1_var20.dll
+F:\source\lab1_var20\bin\Debug\netcoreapp3.1\lab1_var20.pdb
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.csprojAssemblyReference.cache
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.csproj.GenerateResource.cache
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.AssemblyInfoInputs.cache
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.AssemblyInfo.cs
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.csproj.CoreCompileInputs.cache
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.dll
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.pdb
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.genruntimeconfig.cache
+F:\source\lab1_var20\obj\Debug\netcoreapp3.1\lab1_var20.OOP.resources

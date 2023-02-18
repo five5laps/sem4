@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOdnAUu21gYguAbgZoDAoq3hzZtvQ7spTXl8w3ZbpTMgkEozCQkFcBZEx/vickupxaU2R4YW5Zo7TRmU7noIUw==",
+  "success": true,
+  "projectFilePath": "F:\\source\\lab1_var20\\lab1_var20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Remor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
